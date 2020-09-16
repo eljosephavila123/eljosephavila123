@@ -17,7 +17,7 @@ I Believe "***Talk is Cheap, Show me the Code***" 👽
 
 
 
- <img  src="https://github-readme-stats.vercel.app/api?username=eljosephavila123&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF">
+
 
 
 
