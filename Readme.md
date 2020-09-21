@@ -11,15 +11,4 @@ Study at **ESPOL**，Computer Science
 
 I love **OpenSource Movement** ❤️
 
-I like to Record and Share **Knowledge** ☁️
-
-I Believe "***Talk is Cheap, Show me the Code***" 👽
-
-
-
-
-
-
-
-
 </div>
