@@ -5,7 +5,7 @@
  
  ![](https://komarev.com/ghpvc/?username=eljosephavila123)
 
-
+![](https://img.shields.io/github/stars/eljosephavila123?style=social)
 
 Study at **ESPOL**，Computer Science
 
