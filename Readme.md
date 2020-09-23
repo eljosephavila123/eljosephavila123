@@ -11,4 +11,6 @@ Study at **ESPOL**，Computer Science
 
 I love **OpenSource Movement** ❤️
 
+![twitter](https://img.shields.io/twitter/follow/soyjosephavila?style=social)
+
 </div>
