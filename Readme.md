@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="GIF" height="300px" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" />
+<img align="center" alt="GIF" height="300px" src="https://octodex.github.com/images/grinchtocat.gif" />
 
  ![](https://komarev.com/ghpvc/?username=eljosephavila123)  ![](https://img.shields.io/github/stars/eljosephavila123?style=social)  
  
