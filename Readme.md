@@ -5,9 +5,11 @@
  
  <h1 align="center">Hi 👋, I'm Joseph Avila</h1>
  
-Study at **ESPOL**，I'm a Computer Science and Engineering Student
+Study at **ESPOL**，I'm a Computer Science and Engineering Student 
+ 
+Member of Google Developer Group Guayaquil 🚀
 
-I love **OpenSource Movement** ❤️
+I love **OpenSource Movement** ❤
 
 💪🏼 Future Goals- Learn more technologies - Never stop creating new ideas.
 
